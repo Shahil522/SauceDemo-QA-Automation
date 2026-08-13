@@ -20,11 +20,12 @@ The automation includes three primary user flows:
 
 # Structure of the project
 
-SauceDemo_QA_Automation 
-│ 
-├── tests
-│ └── test_saucedemo.py
-│ 
+SauceDemo-QA-Automation/
+├── tests/
+│   └── test_saucedemo.py
+├── Evidence/
+├── Bug Report.pdf
+├── Test plan.pdf
 ├── requirements.txt
-├── README.md 
-└   Test Plan / Bug Reports
+├── README.md
+└── .gitignore
