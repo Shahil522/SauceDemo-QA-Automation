@@ -1,4 +1,5 @@
-# SauceDemo QA Automation ## Project Summary
+# SauceDemo-QA-Automation
+## Project Summary
 
 This project contains the manual testing documentation and the Selenium WebDriver automation for the SauceDemo e-commerce application.
 
@@ -6,7 +7,7 @@ This project contains the manual testing documentation and the Selenium WebDrive
 - Python
 - Selenium Web Driver
 - PyTest
-- Google Chrome
+- Mozilla Firefox
 - Visual Studio Code
 - Git & GitHub 
 
